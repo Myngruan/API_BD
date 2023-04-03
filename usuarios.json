@@ -1,0 +1,10 @@
+{
+    "nome": "res",
+    "cpf": 432,
+    "data_nascimento": "23-04-1999",
+    "0": {
+        "nome": "joa",
+        "cpf": "4543",
+        "data_nascimento": "2023-03-29"
+    }
+}
